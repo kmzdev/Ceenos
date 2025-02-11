@@ -1,0 +1,105 @@
+26/04/2024 13:02:22 -> [WinError 2] The system cannot find the file specified: 'f.txt'
+15/05/2024 08:27:55 -> copiar_dir() takes 0 positional arguments but 1 was given
+16/05/2024 15:53:01 -> list index out of range16/05/2024 15:54:11 -> list index out of range
+16/05/2024 15:59:10 -> [Errno 2] No such file or directory: 'user\\sistema\\ficheiros do sistema\\sdev.txt'
+16/05/2024 16:03:17 -> movera() takes 0 positional arguments but 1 was given
+16/05/2024 17:14:14 -> name 'draw_terminal' is not defined
+16/05/2024 17:35:13 -> not enough values to unpack (expected 2, got 1)16/05/2024 17:40:14 -> name 't' is not defined
+16/05/2024 17:44:57 -> name 't' is not defined
+16/05/2024 17:52:59 -> name 't' is not defined
+16/05/2024 17:58:10 -> name 'random' is not defined
+17/05/2024 23:29:06 -> name 'boot' is not defined
+17/05/2024 23:29:08 -> name 'boot' is not defined
+17/05/2024 23:29:10 -> name 'boot' is not defined
+17/05/2024 23:29:12 -> name 'boot' is not defined
+17/05/2024 23:29:14 -> name 'boot' is not defined
+17/05/2024 23:41:18 -> 'str' object has no attribute 'close'
+24/05/2024 12:57:15 -> module 'progress_bar' has no attribute 'text'
+06/06/2024 15:22:48 -> name 'random' is not defined
+07/06/2024 12:02:07 -> name 'ct' is not defined
+07/06/2024 12:10:20 -> [WinError 3] The system cannot find the path specified: 'ex-dir sistema/apps/jogos'
+07/06/2024 12:12:27 -> [WinError 3] The system cannot find the path specified: 'ex-dir sistema/apps/jogos'
+07/06/2024 14:23:29 -> list index out of range25/06/2024 20:07:27 -> module 'progress_bar' has no attribute 'text'
+25/06/2024 20:08:41 -> module 'progress_bar' has no attribute 'text'
+25/06/2024 20:15:29 -> name 'timing' is not defined
+25/06/2024 20:17:41 -> name 'timing' is not defined
+25/06/2024 20:23:51 -> name 'timing' is not defined
+25/06/2024 20:53:11 -> list index out of range
+25/06/2024 20:54:10 -> list index out of range
+28/06/2024 17:02:44 -> name 'capitalize' is not defined
+28/06/2024 17:02:46 -> name 'capitalize' is not defined
+28/06/2024 17:02:48 -> name 'capitalize' is not defined
+28/06/2024 17:02:50 -> name 'capitalize' is not defined
+28/06/2024 17:11:10 -> 'function' object is not subscriptable
+28/06/2024 21:26:13 -> [Errno 2] No such file or directory: 'user\\KlitGit.py'
+28/06/2024 21:45:34 -> name 'exdir' is not defined
+28/06/2024 21:48:51 -> not enough values to unpack (expected 2, got 1)
+28/06/2024 21:50:59 -> list index out of range
+29/06/2024 14:06:10 -> name 'exdir' is not defined
+29/06/2024 14:10:32 -> [Errno 13] Permission denied: 'user\\fog'
+29/06/2024 20:33:08 -> [WinError 145] The directory is not empty: 'G:/The own/Projects/Ceenos/normal/user/fog'
+29/06/2024 20:39:29 -> [WinError 2] The system cannot find the file specified: 'G'
+29/06/2024 20:41:03 -> [WinError 2] The system cannot find the file specified: 'f.txt'
+29/06/2024 20:42:26 -> [WinError 267] The directory name is invalid: 'G:/The own/Projects/Ceenos/normal/user/fog\\f.txt'
+29/06/2024 20:43:02 -> [WinError 267] The directory name is invalid: 'G:/The own/Projects/Ceenos/normal/user/fog/f.txt'
+29/06/2024 20:45:13 -> [WinError 267] The directory name is invalid: 'G:\\The own\\Projects\\Ceenos\\normal\\user\\fog\\f.txt'
+29/06/2024 20:51:36 -> [WinError 267] The directory name is invalid: 'G:/The own/Projects/Ceenos/normal/user/fog/f.txt'
+29/06/2024 21:06:59 -> 'str' object has no attribute 'startwith'
+29/06/2024 21:57:48 -> list index out of range
+29/06/2024 22:10:27 -> list index out of range
+18/07/2024 16:07:39 -> not enough values to unpack (expected 2, got 1)
+18/07/2024 16:10:43 -> name 'ficheiro' is not defined
+18/07/2024 16:13:04 -> name 'ficheiro' is not defined
+18/07/2024 16:14:30 -> [WinError 3] The system cannot find the path specified: 'C\\ceenos\\user\\h'
+18/07/2024 17:12:40 -> not readable
+18/07/2024 17:14:01 -> argument should be integer or None, not 'str'
+18/07/2024 17:18:04 -> 'list' object has no attribute 'split'
+18/07/2024 17:19:25 -> 'list' object has no attribute 'split'
+18/07/2024 17:28:09 -> string index out of range
+18/07/2024 17:28:54 -> string index out of range
+18/07/2024 17:36:30 -> 'list' object has no attribute 'replace'
+18/07/2024 17:47:16 -> name 'jp' is not defined
+18/07/2024 18:01:46 -> name 'dd' is not defined
+18/07/2024 18:03:40 -> name 'ram' is not defined
+18/07/2024 18:04:21 -> name 'ram' is not defined
+18/07/2024 18:04:42 -> name 'ram' is not defined
+18/07/2024 18:05:00 -> name 'ram' is not defined
+18/07/2024 18:06:21 -> name 'ram' is not defined
+18/07/2024 18:07:05 -> name 'ram' is not defined
+18/07/2024 18:12:10 -> 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+19/07/2024 20:35:35 -> 'str' object cannot be interpreted as an integer
+19/07/2024 20:36:30 -> invalid literal for int() with base 10: '\x005\x000\x000\x001\x000\x005\x002\x004\x009\x002\x008\x000\x00\x00\x00\n'
+19/07/2024 20:37:01 -> invalid literal for int() with base 10: '\x005\x000\x000\x001\x000\x005\x002\x004\x009\x002\x008\x000\x00\x00\x00\n'
+19/07/2024 20:37:34 -> invalid literal for int() with base 10: '\x005\x000\x000\x001\x000\x005\x002\x004\x009\x002\x008\x000\x00\x00\x00\n'
+19/07/2024 20:38:59 -> invalid literal for int() with base 10: '\x005\x000\x000\x001\x000\x005\x002\x004\x009\x002\x008\x000\x00\x00\x00\n'
+19/07/2024 20:39:40 -> invalid literal for int() with base 10: '\x005\x000\x000\x001\x000\x005\x002\x004\x009\x002\x008\x000\x00 \x00 \x00\n'
+19/07/2024 20:40:27 -> invalid literal for int() with base 10: '\x005\x000\x000\x001\x000\x005\x002\x004\x009\x002\x008\x000\x00\x00\x00\n'
+19/07/2024 20:48:03 -> unsupported operand type(s) for +: 'float' and 'str'
+19/07/2024 21:13:37 -> name 'Decimal' is not defined
+19/07/2024 21:14:04 -> name 'Decimal' is not defined
+19/07/2024 21:14:31 -> module 'math' has no attribute 'Decimal'
+19/07/2024 21:19:27 -> invalid literal for int() with base 10: 'Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz  \n'
+19/07/2024 21:25:23 -> module 'os' has no attribute 'stratfile'
+19/07/2024 21:25:49 -> [WinError 2] The system cannot find the file specified: 'especs.cmd'
+19/07/2024 22:11:29 -> Destination path 'user\sistema\ficheiros do sistema\cpu.txt' already exists
+19/07/2024 22:13:48 -> [Errno 2] No such file or directory: 'arm.txt'
+19/07/2024 22:14:23 -> [WinError 2] The system cannot find the file specified: 'user\\sistema\\ficheiros do sistema\\arm.txt'
+19/07/2024 22:16:52 -> [WinError 2] The system cannot find the file specified: 'cpu.txt'
+19/07/2024 22:17:07 -> [WinError 2] The system cannot find the file specified: 'cpu.txt'
+19/07/2024 22:18:49 -> [WinError 2] The system cannot find the file specified: 'C:\\ceenos\\cpu.txt'
+19/07/2024 22:19:17 -> [WinError 2] The system cannot find the file specified: 'C:/ceenos/cpu.txt'
+19/07/2024 22:21:48 -> [WinError 2] The system cannot find the file specified: 'C:\\ceenos\\cpu.txt'
+19/07/2024 22:22:20 -> [WinError 2] The system cannot find the file specified: 'C:\\ceenos\\fq.txt'
+19/07/2024 22:22:44 -> [WinError 2] The system cannot find the file specified: 'user\\sistema\\ficheiros do sistema\\cpu.txt'
+19/07/2024 22:25:43 -> [WinError 2] The system cannot find the file specified: 'user\\sistema\\ficheiros do sistema\\cpu.txt'
+19/07/2024 22:26:39 -> [WinError 2] The system cannot find the file specified: 'C:\\ceenos\\rm.txt'
+19/07/2024 22:29:40 -> [Errno 2] No such file or directory: 'C:\\ceenos\\user\\cpu.txt'
+19/07/2024 22:30:20 -> [Errno 2] No such file or directory: 'C:\\ceenos\\user\\cpu.txt'
+19/07/2024 22:33:53 -> [WinError 2] The system cannot find the file specified: 'cpu.txt'
+19/07/2024 22:35:02 -> [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\ceenos\\arq.txt'
+26/07/2024 21:13:35 -> list index out of range
+13/08/2024 22:37:59 -> [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\ceenos\\arq.txt'
+13/08/2024 22:44:42 -> [Errno 13] Permission denied: 'user\\teste'
+03/10/2024 21:55:47 -> [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\ceenos\\arq.txt'
+21/11/2024 17:35:11 -> list index out of range
+22/11/2024 12:32:40 -> [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\ceenos\\arq.txt'
